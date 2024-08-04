@@ -317,19 +317,19 @@ const de: Translation = {
   ACTIVELOW: 'Low-aktiv',
   UNCHANGED: 'Unverändert',
   ALWAYS: 'Immer',
-  ACTIVITY: 'Activity', // TODO translate
-  CONFIGURE: 'Configure {0}', // TODO translate
-  SYSTEM_MEMORY: 'System Memory', // TODO translate
-  APPLICATION_SETTINGS_1: 'Modify EMS-ESP Application Settings', // TODO translate
-  SECURITY_1: 'Add or remove users', // TODO translate
-  UPLOAD_DOWNLOAD_1: 'Upload/Download Settings and Firmware', // TODO translate
-  MODULES: 'Module', // TODO translate
-  MODULES_UPDATED: 'Modules updated', // TODO translate
-  MODULES_DESCRIPTION: 'Click on the Module to activate or de-activate EMS-ESP library modules', // TODO translate
-  MODULES_NONE: 'No external modules detected', // TODO translate
-  RENAME: 'Rename', // TODO translate
+  ACTIVITY: 'Aktvität',
+  CONFIGURE: 'Konfiguriere {0}',
+  SYSTEM_MEMORY: 'Arbeitsspeicher',
+  APPLICATION_SETTINGS_1: 'Modifizieren der EMS-ESP Anwendungseinstellungen',
+  SECURITY_1: 'Hinzufügen oder entfernen von Benutzern',
+  UPLOAD_DOWNLOAD_1: 'Hoch-/Herunterladen von Einstellungen und Firmware',
+  MODULES: 'Module',
+  MODULES_UPDATED: 'Module aktualisiert',
+  MODULES_DESCRIPTION: 'Eintrag anklicken um externes EMS-ESP Modul zu aktivieren oder deaktivieren',
+  MODULES_NONE: 'Keine externen Module gefunden',
+  RENAME: 'Umbenennen',
   ENABLE_MODBUS: 'Modbus aktivieren',
-  VIEW_LOG: 'View log to diagnose issues' // TODO translate
+  VIEW_LOG: 'Ereignisprotokoll zur Fehlersuche ansehen'
 };
 
 export default de;
