@@ -71,7 +71,7 @@ const de: Translation = {
   TX_ISSUES: 'Tx-Probleme - versuchen Sie einen anderen Tx-Modus',
   DISCONNECTED: 'Getrennt',
   EMS_SCAN: 'Möchten Sie wirklich eine vollständige Gerätesuche des EMS-Busses starten?',
-  DATA_TRAFFIC: 'Data Traffic', // TODO Translate
+  DATA_TRAFFIC: 'Datenverkehr',
   EMS_DEVICE: 'EMS Gerät',
   SUCCESS: 'ERFOLG',
   FAIL: 'FEHLER',
@@ -269,7 +269,7 @@ const de: Translation = {
   NETWORK_NO_WIFI: 'Keine WiFi Netzwerke gefunden',
   NETWORK_BLANK_SSID: 'Freilassen um WiFi zu deaktivieren und ETH zu aktivieren',
   NETWORK_BLANK_BSSID: 'Freilassen um nur SSID für die Verbindung zu nutzen',
-  TX_POWER: 'Tx Leistung',
+  TX_POWER: 'Sendeleistung',
   HOSTNAME: 'Hostname',
   NETWORK_DISABLE_SLEEP: 'Deaktiviere WiFi Schlafmodus',
   NETWORK_LOW_BAND: 'Verwende niedrige WiFi Bandbreite',
